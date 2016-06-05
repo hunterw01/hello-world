@@ -3,5 +3,5 @@
 #include <iostream>
 
 int main(){
-  cout << "Hello, world!\n";
+  std::cout << "Hello, world!\n";
 }
